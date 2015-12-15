@@ -272,7 +272,7 @@ We'll need to commit some of our code
 
 Now we should be able to deploy our site.
 ```
-$ bundle exec cap production deploy deploy:migration
+$ bundle exec cap production deploy deploy:migrate
 ```
 
 ##Turn in instructions
